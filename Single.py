@@ -6,3 +6,6 @@ for i in list:
         print(i)
         new_list.append(i)
 print(new_list)
+print(new_list)
+print(new_list)
+print(new_list)
